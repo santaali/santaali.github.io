@@ -1,2 +1,2 @@
 # santaali.github.io
-Repositório dedicado a minha página de portfólio
+Repositório dedicado a minha primeira página de portfólio.
